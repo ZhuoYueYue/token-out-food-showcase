@@ -1,5 +1,6 @@
 =============
 npm install
+=============
 run run-specs.html
 =============
 
